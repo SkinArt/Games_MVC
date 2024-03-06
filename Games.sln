@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesWeb", "GamesWeb\GamesWeb.csproj", "{C3B43A36-18E1-4D8D-BEC9-A1367B0C65E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesWebRazor_Temp", "GamesWebRazor_Temp\GamesWebRazor_Temp.csproj", "{6BC91859-AE3A-4D71-A3D3-254C2853754D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C3B43A36-18E1-4D8D-BEC9-A1367B0C65E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3B43A36-18E1-4D8D-BEC9-A1367B0C65E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3B43A36-18E1-4D8D-BEC9-A1367B0C65E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC91859-AE3A-4D71-A3D3-254C2853754D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC91859-AE3A-4D71-A3D3-254C2853754D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC91859-AE3A-4D71-A3D3-254C2853754D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC91859-AE3A-4D71-A3D3-254C2853754D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
